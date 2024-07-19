@@ -1,7 +1,7 @@
 1.	Benneke, B., Wong, I., Piaulet, C., et al. 2019, The Astrophysical Journal Letters, 887 (American Astronomical Society), L14, http://dx.doi.org/10.3847/2041-8213/ab59dc
 2.	Bonfils, X., Almenara, J.-M., Cloutier, R., et al. 2018, Astronomy & Astrophysics, 618 (EDP Sciences), A142, http://dx.doi.org/10.1051/0004-6361/201731884
 3.	Cloutier, R., Astudillo-Defru, N., Doyon, R., et al. 2019, Astronomy & Astrophysics, 621 (EDP Sciences), A49, http://dx.doi.org/10.1051/0004-6361/201833995
-4.	Holmberg, M., & Madhusudhan, N. 2024, Astronomy &amp; Astrophysics, 683 (EDP Sciences), L2, http://dx.doi.org/10.1051/0004-6361/202348238
+4.	Holmberg, M., & Madhusudhan, N. 2024, Astronomy & Astrophysics, 683 (EDP Sciences), L2, http://dx.doi.org/10.1051/0004-6361/202348238
 5.	Madhusudhan, N., Nixon, M. C., Welbanks, L., Piette, A. A. A., & Booth, R. A. 2020, The Astrophysical Journal Letters, 891 (American Astronomical Society), L7, http://dx.doi.org/10.3847/2041-8213/ab7229
 6.	Madhusudhan, N., Sarkar, S., Constantinou, S., et al. 2023, The Astrophysical Journal Letters, 956 (American Astronomical Society), L13, http://dx.doi.org/10.3847/2041-8213/acf577
 7.	May, E. M., MacDonald, R. J., Bennett, K. A., et al. 2023, The Astrophysical Journal Letters, 959 (American Astronomical Society), L9, http://dx.doi.org/10.3847/2041-8213/ad054f
